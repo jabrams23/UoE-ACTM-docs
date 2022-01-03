@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+DeepTip - Detecting early warning signals of tipping points for climate shifts.
 """
 
 __version__ = "0.1.0"
